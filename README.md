@@ -14,4 +14,4 @@ Therefore most of the cell are about Feature engineering.
 This Notebook is good illustration for feature Engineering and how to enrich a dataset manually and get the maximum information 
 ## Kaggle Score
 
-This kernel scored 0.82775 reaching a rank of 373 on 12/2018
+This kernel scored 0.82775 reaching a rank of 373/10684 on 12/2018
